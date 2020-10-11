@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f339abe3-271f-4fa6-b438-1fdfdf7234bf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$/basic/taskConfiguration.gradle">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/basic/build.gradle">
+          <activation />
+        </task>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/basic" />
+  </component>
+  <component name="ProjectId" id="1ijHMfOOQxEWY6fxs0iNaLO9H9m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/basic" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/groovy" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Gradle./Users/helicoptera/Desktop/learn_projects/gradle/basic/build.gradle [first]">
+    <configuration name="/Users/helicoptera/Desktop/learn_projects/gradle/basic/build.gradle [deleteTask]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/basic/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="deleteTask" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="/Users/helicoptera/Desktop/learn_projects/gradle/basic/build.gradle [first]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/basic/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="first" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="/Users/helicoptera/Desktop/learn_projects/gradle/basic/build.gradle [testProperties] (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/basic/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testProperties" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="/Users/helicoptera/Desktop/learn_projects/gradle/basic/build.gradle [testProperties]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/basic/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="testProperties" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="/Users/helicoptera/Desktop/learn_projects/gradle/basic/build.gradle [zipImagesDirectories] (1)" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/basic/build.gradle" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="zipImagesDirectories" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle./Users/helicoptera/Desktop/learn_projects/gradle/basic/build.gradle [first]" />
+        <item itemvalue="Gradle./Users/helicoptera/Desktop/learn_projects/gradle/basic/build.gradle [testProperties] (1)" />
+        <item itemvalue="Gradle./Users/helicoptera/Desktop/learn_projects/gradle/basic/build.gradle [testProperties]" />
+        <item itemvalue="Gradle./Users/helicoptera/Desktop/learn_projects/gradle/basic/build.gradle [deleteTask]" />
+        <item itemvalue="Gradle./Users/helicoptera/Desktop/learn_projects/gradle/basic/build.gradle [zipImagesDirectories] (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f339abe3-271f-4fa6-b438-1fdfdf7234bf" name="Default Changelist" comment="" />
+      <created>1602414034102</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602414034102</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="536" y="325" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602427347103">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="536" y="325" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1680.1050@0.0.1680.1050" timestamp="1602427347103" />
+    <state width="1636" height="344" key="GridCell.Tab.0.bottom" timestamp="1602427786722">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="344" key="GridCell.Tab.0.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602427786722" />
+    <state width="1636" height="344" key="GridCell.Tab.0.center" timestamp="1602427786721">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="344" key="GridCell.Tab.0.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602427786721" />
+    <state width="1636" height="344" key="GridCell.Tab.0.left" timestamp="1602427786720">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="344" key="GridCell.Tab.0.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602427786720" />
+    <state width="1636" height="344" key="GridCell.Tab.0.right" timestamp="1602427786721">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="344" key="GridCell.Tab.0.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602427786721" />
+    <state width="1636" height="344" key="GridCell.Tab.1.bottom" timestamp="1602427786723">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="344" key="GridCell.Tab.1.bottom/0.0.1680.1050@0.0.1680.1050" timestamp="1602427786723" />
+    <state width="1636" height="344" key="GridCell.Tab.1.center" timestamp="1602427786723">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="344" key="GridCell.Tab.1.center/0.0.1680.1050@0.0.1680.1050" timestamp="1602427786723" />
+    <state width="1636" height="344" key="GridCell.Tab.1.left" timestamp="1602427786722">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="344" key="GridCell.Tab.1.left/0.0.1680.1050@0.0.1680.1050" timestamp="1602427786722" />
+    <state width="1636" height="344" key="GridCell.Tab.1.right" timestamp="1602427786723">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state width="1636" height="344" key="GridCell.Tab.1.right/0.0.1680.1050@0.0.1680.1050" timestamp="1602427786723" />
+    <state x="492" y="327" key="com.intellij.ide.util.TipDialog" timestamp="1602417400003">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="492" y="327" key="com.intellij.ide.util.TipDialog/0.0.1680.1050@0.0.1680.1050" timestamp="1602417400003" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="java-line">
+          <url>file://$PROJECT_DIR$/basic/taskConfiguration.gradle</url>
+          <line>15</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

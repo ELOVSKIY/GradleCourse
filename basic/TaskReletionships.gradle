@@ -1,0 +1,50 @@
+task putOnSocks {
+    doLast {
+        println "Putting on socks"
+    }
+}
+
+task putOnShoes {
+    dependsOn "putOnSocks"
+    doLast {
+        println "Putting on shoes"
+    }
+}
+
+task eatBreakfact {
+    finalizedBy "brushTeeth"
+    doLast {
+        println "Eating breakfast"
+    }
+}
+
+task brushTeeth {
+    doLast {
+        println "Brush teeth"
+    }
+}
+
+// ./gradlew takeShower putOnFragrance
+task takeShower {
+    doLast {
+        println "Take shower"
+    }
+}
+
+task putOnFragrance {
+    //определяет порядок если запускаем две таски олдновременно
+    shouldRunAfter "takeShower"
+    doLast {
+        println "Put on fragrance"
+    }
+}
+
+task getReady {
+    dependsOn = ["takeShower", "eatBreakfact", "putOnShoes"]
+}
+
+task getEquipped {
+    dependsOn tasks.matching { task -> task.name.startsWith("putOn")}
+}
+
+putOnSocks.mustRunAfter takeShower

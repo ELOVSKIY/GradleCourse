@@ -1,0 +1,10 @@
+//Для параметризации можно юзать данные из консоли, ил gradle.properties или из окружения среды
+//gradle.properties
+greeting = "Hello from preporties file"
+//console
+//./gradlew task -Pgreeting='Hello from console'
+//если есть оба то командная строка приоритетнее
+//Параметры в файле (приоритетнее чем в файле параметров)
+ext {
+    greeting = "Hello from file"
+}

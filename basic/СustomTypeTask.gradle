@@ -1,0 +1,11 @@
+class CustomTaskType extends DefaultTask {
+    String firstName:
+    @TaskAction
+    def doAction() {
+        println "Hello $firstName"
+    }
+}
+
+task testTask(type: CustomTaskType) {
+    firstName = "Stas"
+}

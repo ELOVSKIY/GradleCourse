@@ -1,0 +1,25 @@
+project.task("GradleTask"){}
+task("Task2") // так как project делегирован
+task "Task3" // так можно пичать из-за синтаксиса груви по вызову функции
+task Task4 //
+Task4.description = "Simple task"
+Task4.group = "Task Dexlaration"
+Task4.doLast {
+    println "This is 4 task"
+}
+Task4.doFirst { println "First action"}
+
+task Task5 {
+    group "Simple group"
+    description = "Simple description"
+    doLast {
+        println "Is Task 6"
+    }
+}
+
+task Task6 {
+    group("Simple group")
+    description = "Simple description"
+}
+
+task Task7(description : "Simple description" , group : "Simple group")

@@ -1,0 +1,48 @@
+task copyFile(type: Copy) {
+    //copy spec
+    include "*.jpg"
+    from "path"
+    into "anotherPath"
+}
+//use copy task to unpack archive
+task copyImagesFoldes(type: Copy) {
+    from("images"){
+        include "*.jpg"
+        into "jpeg"
+    }
+    //build/jpg
+
+    from("images" ){
+        include "*.gif"
+        into "gif"
+    }
+    //build/gif
+
+    into "build"
+}
+
+task zipImages(type: Zip) {
+    baseName = "iamges"
+    destinationDir  = file("buildZip")
+    from 'images'
+}
+
+task zipImagesDirectories(type: Zip) {
+    baseName = "iamges"
+    destinationDir  = file("buildZip")
+
+    from("images") {
+        include '*.jpg'
+        into "jpeg"
+    }
+
+    from("images") {
+        include '*.gif'
+        into "gif"
+    }
+}
+
+task deleteTask(type: Delete) {
+    delete 'build'
+    delete 'buildZip'
+}

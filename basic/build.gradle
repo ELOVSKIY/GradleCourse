@@ -1,0 +1,20 @@
+
+println 'First top level script element'
+
+task first {
+    println 'First task: Configuration'
+
+    doLast {
+        println 'First task: Action'
+    }
+}
+
+task second(dependsOn: first) {
+    println 'Second task: Configuration'
+
+    doLast {
+        println 'Second task: Action'
+    }
+}
+
+println 'Second top level script element'
